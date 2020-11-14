@@ -2,6 +2,8 @@
 
 ## Master Thesis Project (IN PROGRESS - UPLOADING FILES)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 **Abstract**
