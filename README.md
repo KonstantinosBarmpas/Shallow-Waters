@@ -14,6 +14,10 @@ This project explores the certiﬁcation properties of complex neural networks b
 
 **Information**
 
-Master Thesis Project at the Data Analytics Lab in collaboration with Daedalean AI. Submitted to ETH Zürich and Imperial College London.
+Master Thesis Project at the [[Data Analytics Lab](http://www.da.inf.ethz.ch/)] in collaboration with [[Daedalean AI](https://daedalean.ai/)]. 
+
+Supervised by [[Professor Dr. Thomas Hofmann](https://inf.ethz.ch/people/person-detail.hofmann.html)].
+
+Submitted to [[ETH Zürich](https://ethz.ch/en.html)] and [[Imperial College London](https://www.imperial.ac.uk/)].
 
 ---
