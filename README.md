@@ -23,7 +23,7 @@ Master Thesis Project at the [[Data Analytics Lab](http://www.da.inf.ethz.ch/)] 
 
 Supervised by [[Professor Dr. Thomas Hofmann](https://inf.ethz.ch/people/person-detail.hofmann.html)].
 
-Submitted to [[ETH Zürich](https://ethz.ch/en.html)] and [[Imperial College London](https://www.imperial.ac.uk/)].
+Submitted to [[ETH Zürich](https://ethz.ch/en.html)] and [[Imperial College London](https://www.imperial.ac.uk/)] on the 15th of August 2020.
 
 **Requirements Capture**
 
