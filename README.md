@@ -1,6 +1,6 @@
 # **Certifying Properties of Deep Networks by Taking them into Shallow Waters**
 
-## Master Thesis Project (repo under construction: uploading files)
+## Master Thesis Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
