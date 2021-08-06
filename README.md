@@ -10,7 +10,6 @@
 [pruning]: ./images/pruning.png "Pruning"
 [adversarial]: ./images/adversarial.png "Adversarial"
 [certification]: ./images/certification.png "Certification"
-[poster]: ./Master_Thesis_Poster.pdf "Poster"
 
 **Abstract**
 
@@ -28,7 +27,7 @@ Submitted to [[ETH Zürich](https://ethz.ch/en.html)] and [[Imperial College Lon
 
 **Thesis Poster**
 
-![poster]
+See the Master_Thesis_Poster.pdf
 
 **Requirements Capture**
 
