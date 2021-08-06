@@ -10,6 +10,7 @@
 [pruning]: ./images/pruning.png "Pruning"
 [adversarial]: ./images/adversarial.png "Adversarial"
 [certification]: ./images/certification.png "Certification"
+[poster]: ./Master_Thesis_Poster.pdf "Poster"
 
 **Abstract**
 
@@ -24,6 +25,10 @@ Master Thesis Project at the [[Data Analytics Lab](http://www.da.inf.ethz.ch/)] 
 Supervised by [[Professor Dr. Thomas Hofmann](https://inf.ethz.ch/people/person-detail.hofmann.html)].
 
 Submitted to [[ETH Zürich](https://ethz.ch/en.html)] and [[Imperial College London](https://www.imperial.ac.uk/)] on the 15th of August 2020.
+
+**Thesis Poster**
+
+![poster]
 
 **Requirements Capture**
 
@@ -67,6 +72,6 @@ The shallow distillated models (filter pruned) with the best accuracy in both SV
 
 **Source Files**
 
-The Python / Tensorflow / PyTorch files will be posted as soon as possible.
+The Python / Tensorflow / PyTorch files are now published.
 
 ---
