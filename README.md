@@ -8,9 +8,7 @@
 
 Published in <strong>ETH Zürich</strong> Research Collection, 2020 - [Paper](https://www.research-collection.ethz.ch/handle/20.500.11850/531617)
 
-Author: <strong>Konstantinos Barmpas</strong>
-Advisors: Yannic Kilcher, Kevin Roth, David Haber
-Supervisor: Thomas Hofmann 
+Author: <strong>Konstantinos Barmpas</strong> | Advisors: Yannic Kilcher, Kevin Roth, David Haber | Supervisor: Thomas Hofmann 
 
 [distillation]: ./images/distillation.png "Model Distillation"
 [pruning]: ./images/pruning.png "Pruning"
