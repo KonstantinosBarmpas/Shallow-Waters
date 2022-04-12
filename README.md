@@ -7,6 +7,7 @@
 ---
 
 Published in <strong>ETH Zürich</strong> Research Collection, 2020
+
 <strong>Konstantinos Barmpas</strong>, Yannic Kilcher, Kevin Roth, David Haber, Thomas Hofmann - [Paper](https://www.research-collection.ethz.ch/handle/20.500.11850/531617)
 
 [distillation]: ./images/distillation.png "Model Distillation"
