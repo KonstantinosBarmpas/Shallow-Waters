@@ -6,9 +6,11 @@
 
 ---
 
-Published in <strong>ETH Zürich</strong> Research Collection, 2020
+Published in <strong>ETH Zürich</strong> Research Collection, 2020 - [Paper](https://www.research-collection.ethz.ch/handle/20.500.11850/531617)
 
-<strong>Konstantinos Barmpas</strong>, Yannic Kilcher, Kevin Roth, David Haber, Thomas Hofmann - [Paper](https://www.research-collection.ethz.ch/handle/20.500.11850/531617)
+Author: <strong>Konstantinos Barmpas</strong>
+Advisors: Yannic Kilcher, Kevin Roth, David Haber
+Supervisor: Thomas Hofmann 
 
 [distillation]: ./images/distillation.png "Model Distillation"
 [pruning]: ./images/pruning.png "Pruning"
